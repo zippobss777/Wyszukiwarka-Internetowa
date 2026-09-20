@@ -52,12 +52,6 @@ do
         Console.WriteLine($"Błąd otwierania przeglądarki: {ex.Message}");
     }
 
-
-    if(input == 67)
-    {
-        Console.WriteLine("Matka Cię nie kocha kurwo");
-    }
-
     Console.ForegroundColor = ConsoleColor.Gray;
     Console.WriteLine("");
     Console.WriteLine("[ENTER] - restart programu do stanu początkowego");
