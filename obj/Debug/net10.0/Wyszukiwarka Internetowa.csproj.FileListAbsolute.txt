@@ -1,0 +1,15 @@
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\bin\Debug\net10.0\Wyszukiwarka Internetowa.exe
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\bin\Debug\net10.0\Wyszukiwarka Internetowa.deps.json
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\bin\Debug\net10.0\Wyszukiwarka Internetowa.runtimeconfig.json
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\bin\Debug\net10.0\Wyszukiwarka Internetowa.dll
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\bin\Debug\net10.0\Wyszukiwarka Internetowa.pdb
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.AssemblyInfoInputs.cache
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.AssemblyInfo.cs
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.csproj.CoreCompileInputs.cache
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.dll
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\refint\Wyszukiwarka Internetowa.dll
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.pdb
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiwarka Internetowa.genruntimeconfig.cache
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\ref\Wyszukiwarka Internetowa.dll
+C:\Users\huber\Desktop\Visual Studio - Programy\Wyszukiwarka Internetowa\Wyszukiwarka Internetowa\obj\Debug\net10.0\Wyszukiw.D2996393.Up2Date
